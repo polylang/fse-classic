@@ -23,8 +23,8 @@ This also allows to use external plugins legacy widgets which might not have alr
 
 == Frequently Asked Questions ==
 
-= How does it work ? =
-* Here is a video showing [how it works](https://wordpress.org/support/topic/how-it-works-56/)
+= How to add a language switcher in the Site Editor? ? =
+* Use a legacy widget: Here is a video showing [how to proceed](https://wordpress.org/support/topic/how-it-works-56/)
 
 == Changelog ==
 
