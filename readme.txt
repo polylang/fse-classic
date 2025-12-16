@@ -1,5 +1,5 @@
 === Site Editor Classic Features ===
-Contributors: manooweb, hugod
+Contributors: manooweb, hugod, sebastienserre
 Donate link: https://polylang.pro
 Tags: block, widget, menu, fse, site editor
 Requires at least: 5.9
