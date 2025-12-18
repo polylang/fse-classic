@@ -13,7 +13,9 @@
 	<file>.</file>
 
 	<!-- Our own ruleset. -->
-	<rule ref="Polylang"/>
+	<rule ref="Polylang">
+		<exclude name="PEAR.Commenting.FileComment.MissingVersion" />
+	</rule>
 
 	<!-- Run against the PSR-4 ruleset. -->
 	<!-- https://github.com/suin/phpcs-psr4-sniff -->
