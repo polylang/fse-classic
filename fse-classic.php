@@ -1,7 +1,6 @@
 <?php
 /**
  * Site Editor Classic Features
- * php version        5.6
  *
  * @package           WP_Syntex\FSE Classic
  * @author            WP SYNTEX

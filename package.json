@@ -1,11 +1,7 @@
 {
   "name": "@wpsyntex/fse-classic",
   "version": "1.0.0",
-  "description": "Adds legacy WordPress features for Full Site Editor(FSE)",
-  "main": "index.js",
-  "directories": {
-    "test": "tests"
-  },
+  "description": "Adds legacy WordPress features for Full Site Editor (FSE)",
   "scripts": {
     "build": "npm run clean && webpack --mode production",
     "build:dev": "npm run clean && webpack --mode development",
@@ -29,15 +25,8 @@
   "homepage": "https://github.com/polylang/fse-classic#readme",
   "devDependencies": {
     "@wpsyntex/polylang-build-scripts": "^2.0.3",
-    "clean-webpack-plugin": "^4.0.0",
-    "copy-webpack-plugin": "^11.0.0",
-    "css-loader": "^6.2.0",
-    "css-minimizer-webpack-plugin": "^4.0.0",
-    "mini-css-extract-plugin": "^2.3.0",
-    "postcss": "^8.3.6",
-    "rimraf": "^3.0.2",
-    "terser-webpack-plugin": "^5.2.4",
-    "webpack": "^5.52.1",
-    "webpack-cli": "^4.8.0"
+    "webpack": "^5",
+    "webpack-cli": "^6.0",
+	"css-loader": "^7.1"
   }
 }

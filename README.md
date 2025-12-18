@@ -4,8 +4,6 @@ Welcome to the Site Editor Classic Features repository on GitHub. Here you can b
 
 If you are not a developer, we recommend to [download Site Editor Classic Features](https://wordpress.org/plugins/fse-classic/) from WordPress directory.
 
-**Todo** Change the link if we change the name of the plugin before publishing on WordPress directory.
-
 ## [What this plugin is for](#fse-classic)
 
 Currently this plugin adds the legacy widgets block in any kind of block editor, more specifically the Site Editor (FSE) introduced in WordPress 5.9.
