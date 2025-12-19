@@ -23,8 +23,9 @@ This also allows to use external plugins legacy widgets which might not have alr
 
 == Frequently Asked Questions ==
 
-= How to add a language switcher in the Site Editor? ? =
-* Use a legacy widget: Here is a video showing [how to proceed](https://wordpress.org/support/topic/how-it-works-56/)
+= How to add a language switcher in the Site Editor? =
+
+* Use a legacy widget and select the language switcher: Here is a video showing [how to proceed](#).
 
 == Changelog ==
 
