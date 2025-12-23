@@ -25,7 +25,7 @@ This also allows to use external plugins legacy widgets which might not have alr
 
 = How to add a language switcher in the Site Editor? =
 
-* Use a legacy widget and select the language switcher: Here is a video showing [how to proceed](#).
+* Use a legacy widget and select the language switcher: Here is a video showing [how to proceed](https://www.loom.com/share/30ac2a055ccb4f069001f2b8f5abf5f4).
 
 == Changelog ==
 
